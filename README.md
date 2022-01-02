@@ -27,5 +27,11 @@ View World on VRChat: [COMMING SOON]
 
 ### NSFW Art Might Be Added Later (Please Do Not Add To Repo)
 
+### How to Add Art
+1. Clone Repo [LINK](x-github-client://openRepo/https://github.com/Geoffery10/VRC-Museum)
+2. Add Your Art to */Textures/Art/YOURNAMEHERE/*
+3. Push an Update with GitHub Desktop
+4. Wait for Approval 
+
 ## License
 This project is owned by Geoffery10 and any unauthorized coping or redistribution is against my terms. All art in this project are owned by thier respective artists.
