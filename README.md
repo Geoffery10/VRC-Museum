@@ -28,7 +28,7 @@ View World on VRChat: [COMMING SOON]
 ### NSFW Art Might Be Added Later (Please Do Not Add To Repo)
 
 ### How to Add Art
-1. Clone Repo [LINK](x-github-client://openRepo/https://github.com/Geoffery10/VRC-Museum)
+1. Clone Repo [MORE INFO](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Add Your Art to */Textures/Art/YOURNAMEHERE/*
 3. Push an Update with GitHub Desktop
 4. Wait for Approval 
