@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: SetActiveFromPlayerTrigger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7c95aaa1e9295c441b5f2e3676fa4ff0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 9113824d96de0494ca75e4564420f801,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export target\r\n    \r\n    __instance_0:
     %UnityEngineGameObject, this\r\n    __value_0: %SystemBoolean, null\r\n    __instance_1:

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: FireOnTrigger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 82d21bdc10e01bf4b8e7370bcbf154aa,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: a95fee6f97cebc04880f22c4a7281d6a,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export eventName\r\n    .export target\r\n   
     \r\n    __instance_0: %VRCUdonUdonBehaviour, this\r\n    __eventName_0: %SystemString,
