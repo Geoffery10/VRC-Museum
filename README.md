@@ -21,6 +21,7 @@ View World on VRChat: https://vrchat.com/home/launch?worldId=wrld_e1fff68e-d322-
 
 ### Image Size
 * 2048px * 2048px or smaller
+* 1:1 Aspect Ratio Prefered but Not Required
 
 ### 3D Art Allowed if Optimized
  <p align="left">
