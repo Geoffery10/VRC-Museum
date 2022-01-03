@@ -11,13 +11,13 @@
 ### Namita_
 
 ## Getting Started
-View World on VRChat: [COMMING SOON]
+View World on VRChat: https://vrchat.com/home/launch?worldId=wrld_e1fff68e-d322-4544-b12b-123c294c49ea
 
 ## Art Requirements
 ### Suported Formats
 * JPEG
-* PNG (Transparentcy Allowed)
-* GIF (Maybe but not on Quest)
+* PNG (Transparentcy Allowed but Not Recommended)
+* GIF (Not Quest Compatible)
 
 ### Image Size
 * 2048px * 2048px or smaller
