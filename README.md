@@ -23,7 +23,7 @@ View World on VRChat: [COMMING SOON]
 <img align="center" src="https://scontent-ort2-2.cdninstagram.com/v/t51.2885-15/e35/s150x150/225502289_322795579586335_833063662984602706_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=I3b4oMGZkiMAX9d9iWh&edm=APU89FABAAAA&ccb=7-4&oh=00_AT903tkhOAcAt0_vwFtkN6IccOd1PF-hJmA4McXEetwG9w&oe=61D47AC4&_nc_sid=86f79a">
 </p>
 
-### All Art Will Be Approved By Me [Geoffery10](https://github.com/Geoffery10)
+### All Art Must Be Approved By Me [Geoffery10](https://github.com/Geoffery10)
 
 ### NSFW Art Might Be Added Later (Please Do Not Add To Repo)
 
