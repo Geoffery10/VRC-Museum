@@ -1,10 +1,14 @@
 # VRC-Museum
  
 ## Table of Contents
+* [Featured Artists](#featured-artists)
 * [Getting Started](#getting-started)
 * [Art Requirements](#art-requirements)
 * [License](#license)
 
+## Featured Artists 
+### [Geoffery10](https://www.instagram.com/geoffery10/)
+### Namita_
 
 ## Getting Started
 View World on VRChat: [COMMING SOON]
