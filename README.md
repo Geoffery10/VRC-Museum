@@ -9,6 +9,8 @@
 ## Featured Artists 
 ### [Geoffery10](https://www.instagram.com/geoffery10/)
 ### Namita_
+### CD33
+### Leticia9798
 
 ## Getting Started
 View World on VRChat: https://vrchat.com/home/launch?worldId=wrld_e1fff68e-d322-4544-b12b-123c294c49ea
