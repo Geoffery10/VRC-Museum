@@ -11,7 +11,7 @@
 ### [Namita_](https://twitter.com/Namita_UWU)
 ### CD33
 ### Leticia9798
-### Cass
+### [Cass](https://twitter.com/WhenIG0)
 ### SteelyWheelyy
 
 ## Getting Started
