@@ -528,9 +528,9 @@ Material:
     - _SpecularStrength: 0
     - _Speed: 0.252
     - _SpeedColor: 3
-    - _SpeedX: 2.3
-    - _SpeedY: 2
-    - _SpeedZ: 2.5
+    - _SpeedX: 2
+    - _SpeedY: 1.7
+    - _SpeedZ: 2.1
     - _SpinSpeed: -0.005422214
     - _Spokeamountx2: 1.220156
     - _SrcBlend: 1
@@ -602,7 +602,7 @@ Material:
     - _WaveDensityY: 8
     - _WaveDensityZ: 9
     - _WaveEmission: 5.97
-    - _WaveHeight: 0.02
+    - _WaveHeight: 0.005
     - _WaveSlopeX: 2
     - _WaveSlopeY: 2
     - _WaveSlopeZ: 2
