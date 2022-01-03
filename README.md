@@ -8,7 +8,7 @@
 
 ## Featured Artists 
 ### [Geoffery10](https://www.instagram.com/geoffery10/)
-### Namita_
+### [Namita_](https://twitter.com/Namita_UWU)
 ### CD33
 ### Leticia9798
 ### Cass
