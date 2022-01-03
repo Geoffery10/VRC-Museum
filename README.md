@@ -12,7 +12,7 @@ View World on VRChat: [COMMING SOON]
 ## Art Requirements
 ### Suported Formats
 * JPEG
-* PNG (Transparentcy Allow)
+* PNG (Transparentcy Allowed)
 * GIF (Maybe but not on Quest)
 
 ### Image Size
