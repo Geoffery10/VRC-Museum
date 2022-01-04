@@ -1,0 +1,3939 @@
+Wavefront OBJ material file
+# Contains 289 materials
+
+newmtl Stone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Granite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Polished_Granite
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Diorite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Polished_Diorite
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Andesite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Polished_Andesite
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Grass_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dirt
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Coarse_Dirt
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Podzol
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobblestone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Planks
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Wood_Planks
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dark_Oak_Wood_Planks
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sapling
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Sapling
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stationary_Water
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.535
+# Tr 0.465
+Tf 0.465 0.465 0.465
+
+newmtl Bubble_Column
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.535
+# Tr 0.465
+Tf 0.465 0.465 0.465
+
+newmtl Stationary_Lava
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+map_Ke Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sand
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Gravel
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Iron_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Coal_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Birch_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Wood
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Birch_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lapis_Lazuli_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dispenser
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sandstone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bed
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Powered_Rail
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Grass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fern
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dead_Bush
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Piston
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl White_Wool
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Light_Wool
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Wool
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Red_Wool
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dandelion
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Poppy
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Blue_Orchid
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Allium
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Azure_Bluet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Red_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Orange_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl White_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oxeye_Daisy
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cornflower
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lily_of_the_Valley
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brown_Mushroom
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.0172133 0.0172133 0.0172133
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Red_Mushroom
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Block_of_Iron
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobblestone_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brick_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bricks
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bookshelf
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Mossy_Cobblestone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Obsidian
+Ns 204
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.16 0.16 0.16
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Torch
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.901686 0.901686 0.901686
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Monster_Spawner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Chest
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Redstone_Wire_power_0
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Crafting_Table
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Smithing_Table
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Wheat
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Farmland
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Furnace
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Loom
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Blast_Furnace
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Ladder
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Rail
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobblestone_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Wall_Sign
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Wall_Sign
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lever
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Iron_Door
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Pressure_Plate
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Button
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cactus
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Clay
+Ns 140.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.11 0.11 0.11
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sugar_Cane
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Jukebox
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fence
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pumpkin
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Soul_Sand
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Glowstone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+map_Ke Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Nether_Portal
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+Ke 0.627989 0.627989 0.627989
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 4
+# d 0.8
+# Tr 0.2
+Tf 0.2 0.2 0.2
+
+newmtl Cake
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cake__4
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Orange_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Magenta_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Light_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Yellow_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Lime_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Pink_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Light_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Cyan_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Purple_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Blue_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Green_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Red_Stained_Glass
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Oak_Trapdoor
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Bricks
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Melon
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pumpkin_Stem_age_7
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pumpkin_Stem_age_7
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Melon_Stem_age_7
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Vines
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fence_Gate
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brick_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Brick_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lily_Pad
+Ns 204
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.16 0.16 0.16
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Nether_Wart
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Enchanting_Table
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brewing_Stand
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.0172133 0.0172133 0.0172133
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cauldron
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Spruce_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Dark_Oak_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Birch_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dark_Oak_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cocoa
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tripwire_Hook
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Beacon
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+Ke 1 1 1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobblestone_Wall
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Brick_Wall
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Polished_Blackstone_Wall
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Deepslate_Brick_Wall
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Flower_Pot
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Poppy
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Blue_Orchid
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Red_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Orange_Tulip
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Oxeye_Daisy
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Lily_of_the_Valley
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Dandelion
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Oak_Sapling
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Fern
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potted_Cactus
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Carrot
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Potato
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Skeleton_Skull
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Chipped_Anvil
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Hopper
+Ns 153
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.12 0.12 0.12
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Quartz_Stairs
+Ns 204
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.16 0.16 0.16
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl White_Terracotta
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Terracotta
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Stained_Glass_Pane
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Light_Stained_Glass_Pane
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Brown_Stained_Glass_Pane
+Ns 242.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.5
+# Tr 0.5
+Tf 0.5 0.5 0.5
+
+newmtl Dark_Oak_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Azalea_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Flowering_Azalea_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dark_Oak_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Hay_Bale
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl White_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Orange_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Magenta_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Light_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Yellow_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lime_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cyan_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Purple_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Blue_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brown_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Green_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Red_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Black_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Moss_Carpet
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Terracotta
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sunflower
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lilac
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Tallgrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Large_Fern
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Rose_Bush
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Peony
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Fence_Gate
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Fence
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dark_Oak_Fence
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Door
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Mossy_Cobblestone_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Beetroot_Seeds
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dirt_Path
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Magma_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.0894427 0.0894427 0.0894427
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+map_Ke Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brown_Shulker_Box
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Glazed_Terracotta
+Ns 204
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.16 0.16 0.16
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl White_Concrete
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Concrete
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Concrete_Powder
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Black_Concrete_Powder
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Trapdoor
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dark_Oak_Trapdoor
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Button
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Spruce_Pressure_Plate
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stripped_Spruce_Log
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stripped_Jungle_Log
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Orange_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Light_Blue_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Yellow_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lime_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cyan_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Purple_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Blue_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brown_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Red_Wall_Banner
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tall_Seagrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Seagrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Smooth_Sandstone
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Kelp
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tube_Coral_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brain_Coral_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bubble_Coral_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fire_Coral_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Horn_Coral_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tube_Coral
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brain_Coral
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tube_Coral_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brain_Coral_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bubble_Coral_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fire_Coral_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Horn_Coral_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tube_Coral_Wall_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Brain_Coral_Wall_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bubble_Coral_Wall_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Fire_Coral_Wall_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Horn_Coral_Wall_Fan
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sea_Pickle
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.252982 0.252982 0.252982
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sea_Pickle__1
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.464758 0.464758 0.464758
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sea_Pickle__2
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.715542 0.715542 0.715542
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sea_Pickle__3
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sweet_Berry_Bush
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bamboo
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Stone_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Composter
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Barrel
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Cutter
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Grindstone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lectern
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bell
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lantern
+Ns 178.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.14 0.14 0.14
+Ke 1 1 1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Soul_Lantern
+Ns 178.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.14 0.14 0.14
+Ke 0.544331 0.544331 0.544331
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Campfire__4
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Scaffolding
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Bee_Nest
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Honey_Block
+Ns 102
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 4
+# d 0.75
+# Tr 0.25
+Tf 0.25 0.25 0.25
+
+newmtl Chain
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stone_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Mossy_Cobblestone_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lit_Candle__16
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.252982 0.252982 0.252982
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lit_Candle__32
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.464758 0.464758 0.464758
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lit_Candle__48
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.715542 0.715542 0.715542
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Pink_Candle
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Block_of_Amethyst
+Ns 204
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.16 0.16 0.16
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Calcite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Copper_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Moss_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Rooted_Dirt
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobbled_Deepslate
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Polished_Deepslate
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.17 0.17 0.17
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Deepslate_Bricks
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Smooth_Basalt
+Ns 127.5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lightning_Rod
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Deepslate_Brick_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Deepslate_Brick_Slab
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cave_Vines
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cave_Vines_Plant
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cave_Vines_lit
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.901686 0.901686 0.901686
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cave_Vines_Plant
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.901686 0.901686 0.901686
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Azalea
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Flowering_Azalea
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Big_Dripleaf
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Glow_Lichen
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.318794 0.318794 0.318794
+map_Ka Garf_Town-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGBA.png
+map_d Garf_Town-Alpha.png
+map_Ke Garf_Town-RGBA.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Cobbled_Deepslate_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Deepslate_Brick_Stairs
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka Garf_Town-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd Garf_Town-RGB.png
+illum 2
+# d 1
+# Tr 0
