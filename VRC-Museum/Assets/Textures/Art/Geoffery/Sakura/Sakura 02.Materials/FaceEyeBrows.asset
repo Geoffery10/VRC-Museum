@@ -180,7 +180,7 @@ Material:
     - _ZWrite: 0
     - m_emissionOptions: 0
     - m_fakeLightingOptions: 0
-    - m_mainOptions: 0
+    - m_mainOptions: 1
     - m_matcapOptions: 0
     - m_metallicOptions: 0
     - m_miscOptions: 0
@@ -189,7 +189,7 @@ Material:
     - m_specularHighlightsOptions: 0
     - m_stencilOptions: 0
     m_Colors:
-    - _Color: {r: 0.1764706, g: 0.21176471, b: 0.4509804, a: 1}
+    - _Color: {r: 0.4431373, g: 0.23137257, b: 0.3137255, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _EmissiveScroll_Direction: {r: 0, g: -10, b: 0, a: 0}

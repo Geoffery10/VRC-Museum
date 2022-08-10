@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fb0f9cb9b8333e04193cffe7fbd22743, type: 3}
+        m_Texture: {fileID: 2800000, guid: 98d5be2af59f0b84a92f85a75ea9ed32, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Matcap:
@@ -180,7 +180,7 @@ Material:
     - _ZWrite: 1
     - m_emissionOptions: 0
     - m_fakeLightingOptions: 0
-    - m_mainOptions: 0
+    - m_mainOptions: 1
     - m_matcapOptions: 0
     - m_metallicOptions: 0
     - m_miscOptions: 0

@@ -180,7 +180,7 @@ Material:
     - _ZWrite: 1
     - m_emissionOptions: 0
     - m_fakeLightingOptions: 0
-    - m_mainOptions: 0
+    - m_mainOptions: 1
     - m_matcapOptions: 0
     - m_metallicOptions: 0
     - m_miscOptions: 1
