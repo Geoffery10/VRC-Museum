@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: UseStationOnInteract
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 0bce088c1642b2545bae4764780fbbc0,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3c54eafd24d08114abc46daf8b21a069,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    \r\n    __instance_0: %VRCSDKBaseVRCPlayerApi,
     null\r\n\r\n.data_end\r\n\r\n.code_start\r\n\r\n    .export _interact\r\n   

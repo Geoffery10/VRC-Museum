@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: IsValid
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 561cf6e4bf2b6bd418451ac2fc4760a1,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7f839bc8f41915a4abf762953300f839,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    \r\n    __object_0: %SystemObject, null\r\n   
     __result_0: %SystemBoolean, null\r\n    __message_0: %SystemObject, null\r\n   
